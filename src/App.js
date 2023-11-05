@@ -10,7 +10,6 @@ export default function App() {
         {" "}
         <a
           href="https://github.com/liudmyla2/weather-app-react"
-          target="_blank"
         >open sourced on GitHub</a>
       </footer>
     </div>
